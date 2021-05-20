@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8169015106ea47629ea4d6e7abaaa7d4" Name="Diagram1" ZoomLevel="21">
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.APP_DEFAULTS" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.CheckList_Master" Width="1.5" PointX="10.5" PointY="95.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.CompanyMaster" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.sysdiagram" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.tbl_Acct_Financial_Year" Width="1.5" PointX="4.75" PointY="3.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_ColorPreference" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Admin_Branch_Master" Width="1.5" PointX="8.25" PointY="102" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Admin_Category" Width="1.5" PointX="28.5" PointY="85.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Admin_Company_Master" Width="1.5" PointX="6.75" PointY="5.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Admin_UserList" Width="1.5" PointX="30.75" PointY="83.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Admin_VoucherNoSetup" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_COMMON_Notification" Width="1.5" PointX="21.75" PointY="183.25" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_Followup_Master" Width="1.5" PointX="8.75" PointY="6.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesEnquiry" Width="1.5" PointX="5.25" PointY="100.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesEnquiry_Associates" Width="1.5" PointX="10.5" PointY="103" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesEnquiry_Attachments" Width="1.5" PointX="10.5" PointY="98.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesEnquiry_BOQ" Width="1.5" PointX="0.75" PointY="9.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesOrder" Width="1.5" PointX="24.75" PointY="94" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesOrder_Associates" Width="1.5" PointX="27" PointY="90.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesOrder_Attachment" Width="1.5" PointX="30" PointY="95.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesOrder_BOQ" Width="1.5" PointX="31.5" PointY="80.5" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesOrder_ItemCharges" Width="1.5" PointX="33.75" PointY="86" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesOrder_TermsAndConditions" Width="1.5" PointX="33" PointY="98.875" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuestionnaire" Width="1.5" PointX="2.75" PointY="9.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation" Width="1.5" PointX="13.5" PointY="101.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation_Associates" Width="1.5" PointX="24.75" PointY="107" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation_Attachments" Width="1.5" PointX="15.75" PointY="102.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation_BOQ" Width="1.5" PointX="19.5" PointY="122.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation_ItemCharges" Width="1.5" PointX="21.75" PointY="102.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation_Review" Width="1.5" PointX="15.75" PointY="139.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation_Review_Detail" Width="1.5" PointX="18" PointY="139.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SalesQuotation_TermsAndConditions" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_ScheduleCallLog" Width="1.5" PointX="25.5" PointY="83.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_ScheduleCallLogAssignee" Width="1.5" PointX="24.75" PointY="118" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_ScheduleCallLogFollowUp" Width="1.5" PointX="27.75" PointY="94" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SM_ContactReferences" Width="1.5" PointX="5.25" PointY="96.25" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SM_DocumentHistory" Width="1.5" PointX="10.75" PointY="3.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SM_SalesLead" Width="1.5" PointX="3" PointY="100.875" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SM_SalesLead_Associates" Width="1.5" PointX="24.75" PointY="110" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SM_SalesLead_Attachment" Width="1.5" PointX="13.5" PointY="97.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_CRM_SM_SalesLead_SuspectingInfo" Width="1.5" PointX="5.25" PointY="117.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_AdvanceRequestApplication" Width="1.5" PointX="27.75" PointY="117.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_DesignationwiseSalaryHeads" Width="1.5" PointX="33" PointY="76.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_HolidaysAndWeekOff" Width="1.5" PointX="10.75" PointY="6.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_LeaveApplication" Width="1.5" PointX="30.75" PointY="112.25" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_LeaveConfiguration" Width="1.5" PointX="33" PointY="67.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBl_MP_HR_LeaveEncashment_Log" Width="1.5" PointX="10.75" PointY="9.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_LoanDisbursement" Width="1.5" PointX="30" PointY="105.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_LoanRequestApplication" Width="1.5" PointX="27.75" PointY="111.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_ManualAttendance_Master" Width="1.5" PointX="33.75" PointY="105" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_HR_PayslipMaster" Width="1.5" PointX="21.75" PointY="178.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBl_MP_HR_SalaryHead" Width="1.5" PointX="12.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Bank" Width="1.5" PointX="17.25" PointY="99" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_BankBranch" Width="1.5" PointX="11.25" PointY="106.25" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Category" Width="1.5" PointX="12.75" PointY="4.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_City" Width="1.5" PointX="11.25" PointY="111.25" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Country" Width="1.5" PointX="0.75" PointY="87.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee" Width="1.5" PointX="19.5" PointY="95.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_Attachment" Width="1.5" PointX="21.75" PointY="115.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_Authority" Width="1.5" PointX="12.75" PointY="7.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_CTC" Width="1.5" PointX="12.75" PointY="10.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_LastEmployerDetail" Width="1.5" PointX="21.75" PointY="187.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_LeaveConfiguration" Width="1.5" PointX="27.75" PointY="106.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_MedicalDetail" Width="1.5" PointX="27.75" PointY="101.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_PreviousEmployer" Width="1.5" PointX="0.75" PointY="13.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_Qualification" Width="1.5" PointX="21.75" PointY="168.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Employee_Relative" Width="1.5" PointX="24.75" PointY="113.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Inventory_Category" Width="1.5" PointX="17.25" PointY="88.875" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Inventory_Level" Width="1.5" PointX="19.5" PointY="69.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Inventory_Level_Details" Width="1.5" PointX="21.75" PointY="69.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Item" Width="1.5" PointX="19.5" PointY="86.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Item_AssemblyChildItems" Width="1.5" PointX="21.75" PointY="75.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Item_Attachments" Width="1.5" PointX="27.75" PointY="81" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Item_InvLevel_Details" Width="1.5" PointX="2.75" PointY="13.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Item_Suppliers" Width="1.5" PointX="29.75" PointY="90.25" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.Tbl_MP_Master_Module" Width="1.5" PointX="19.5" PointY="82.25" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.Tbl_MP_Master_Module_Forms" Width="1.5" PointX="19.5" PointY="77.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.Tbl_MP_Master_Party" Width="1.5" PointX="0.75" PointY="103.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.Tbl_MP_Master_Party_Address" Width="1.5" PointX="16.5" PointY="110.5" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.Tbl_MP_Master_Party_BankDetail" Width="1.5" PointX="16.5" PointY="106.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.Tbl_MP_Master_PartyContact_Detail" Width="1.5" PointX="3" PointY="94.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Role" Width="1.5" PointX="19.5" PointY="73" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_RoleForm" Width="1.5" PointX="21.75" PointY="78.875" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_RoleModule" Width="1.5" PointX="21.75" PointY="85.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_State" Width="1.5" PointX="3" PointY="125.375" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_TnC" Width="1.5" PointX="33" PointY="72.625" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_UserList" Width="1.5" PointX="8.25" PointY="95.875" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Warehouse" Width="1.5" PointX="30.75" PointY="99.5" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_PMC_Project_CheckList" Width="1.5" PointX="14.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_PMC_Project_Planning" Width="1.5" PointX="24.75" PointY="90" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_PMC_ProjectMaster" Width="1.5" PointX="22.5" PointY="90.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_User_CustomPermissions" Width="1.5" PointX="21.75" PointY="97" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_User_Master" Width="1.5" PointX="21.75" PointY="172.125" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.DesignationwiseDefaultRole" Width="1.5" PointX="14.75" PointY="3.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.TBL_MP_Master_Area" Width="1.5" PointX="4.75" PointY="14.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.NTEST" Width="1.5" PointX="14.75" PointY="6.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.ProjectParty" Width="1.5" PointX="10.75" PointY="14.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vAdvanceRequestApplication" Width="1.5" PointX="14.75" PointY="11.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vAttendanceRegister" Width="1.5" PointX="16.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vEmployCTC" Width="1.5" PointX="16.75" PointY="9.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vEmployee" Width="1.5" PointX="16.75" PointY="14.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vEMPLOYEE_DESCRIPTION" Width="1.5" PointX="0.75" PointY="17.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vLeaveApplication" Width="1.5" PointX="6.75" PointY="17.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vLoanRequestApplication" Width="1.5" PointX="12.75" PointY="17.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vMasterItem" Width="1.5" PointX="18.75" PointY="0.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vMasterParty" Width="1.5" PointX="2.75" PointY="18.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vSalaryHead" Width="1.5" PointX="18.75" PointY="6.75" />
+        <EntityTypeShape EntityType="EXCEL_ERP_TESTModel.vSalesOrder" Width="1.5" PointX="18.75" PointY="9.75" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_CheckList_Master_TBL_MP_Master_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Admin_Branch_Master_TBL_MP_Master_City" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Admin_Branch_Master_TBL_MP_Master_Country" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Admin_Branch_Master_TBL_MP_Master_State" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Admin_UserList_TBL_MP_Admin_Category" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.Admin_UserList_ItemType" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_TermsAndConditions_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_ScheduleCallLogFollowUp_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_AdvanceRequestApplication_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_DesignationwiseSalaryHeads_TBL_MP_Admin_UserList1" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LeaveApplication_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LeaveConfiguration_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LoanDisbursement_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LoanRequestApplication_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_LeaveConfiguration_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_MedicalDetail_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_Relative_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_BankDetail_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_TnC_TBL_MP_Admin_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_COMMON_Notification_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_Associates_TBL_MP_CRM_SalesEnquiry" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_Attachments_TBL_MP_CRM_SalesEnquiry" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_TBL_MP_CRM_SM_SalesLead" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_TBL_MP_Master_City" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_TBL_MP_Master_Country" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_TBL_MP_Master_State" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_TBL_MP_CRM_SalesEnquiry" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_Associates_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesEnquiry_Attachments_TBL_MP_Master_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_Associates_TBL_MP_CRM_SalesOrder" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_Attachment_TBL_MP_CRM_SalesOrder" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_TBL_MP_CRM_SalesQuotation" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_TBL_MP_PMC_ProjectMaster" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_TermsAndConditions_TBL_MP_CRM_SalesOrder" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_Attachment_TBL_MP_Master_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_ItemCharges_TBL_MP_CRM_SalesOrder_BOQ" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_ItemCharges_TBL_MP_Master_Item" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesOrder_ItemCharges_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_Associates_TBL_MP_CRM_SalesQuotation" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_Attachments_TBL_MP_CRM_SalesQuotation" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_ItemCharges_TBL_MP_CRM_SalesQuotation" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_Review_TBL_MP_CRM_SalesQuotation" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_Associates_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_Attachments_TBL_MP_Master_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_ItemCharges_TBL_MP_CRM_SalesQuotation_BOQ" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_ItemCharges_TBL_MP_Master_Item" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_ItemCharges_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SalesQuotation_Review_Detail_TBL_MP_CRM_SalesQuotation_Review" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_ScheduleCallLogAssignee_TBL_MP_CRM_ScheduleCallLog" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_ScheduleCallLogFollowUp_TBL_MP_CRM_ScheduleCallLog" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_ScheduleCallLogAssignee_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_ScheduleCallLogFollowUp_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SM_ContactReferences_Tbl_MP_Master_PartyContact_Detail" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SM_SalesLead_Associates_TBL_MP_CRM_SM_SalesLead" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SM_SalesLead_Attachment_TBL_MP_CRM_SM_SalesLead" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SM_SalesLead_SuspectingInfo_TBL_MP_CRM_SM_SalesLead" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SM_SalesLead_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SM_SalesLead_Associates_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_CRM_SM_SalesLead_Attachment_TBL_MP_Master_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_AdvancePaymentApplication_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LeaveApplication_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LoanDisbursement_TBL_MP_HR_LoanRequestApplication" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LoanDisbursement_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_LoanRequestApplication_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_ManualAttendance_Master_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_ManualAttendance_Master_TBL_MP_PMC_ProjectMaster" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_PayslipMaster_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_BankBranch_TBL_MP_Master_Bank" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_TBL_MP_Master_Bank" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_BankDetail_TBL_MP_Master_Bank" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_BankBranch_TBL_MP_Master_City" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_BankBranch_TBL_MP_Master_Country" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_BankBranch_TBL_MP_Master_State" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_TBL_MP_Master_BankBranch" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_BankDetail_TBL_MP_Master_BankBranch" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_City_TBL_MP_Master_Country" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_City_TBL_MP_Master_State" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_Address_TBL_MP_Master_City" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_Address_TBL_MP_Master_Country" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_State_TBL_MP_Master_Country" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_Attachment_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_LastEmployerDetail_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_LeaveConfiguration_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_MedicalDetail_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_Qualification_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_Relative_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_TBL_MP_Master_Employee1" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Warehouse_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_User_FormWiseRights_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_User_Master_TBL_MP_Master_Employee" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_HR_EMPLOYEE_ATTACHMENT_TBL_MP_Master_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Employee_LastEmployerDetail_TBL_MP_Master_Employee_LastEmployerDetail" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Inventory_Level_TBL_MP_Master_Inventory_Category" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Item_Suppliers_TBL_MP_Master_Inventory_Category" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.Inventory_Category" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Inventory_Level_Details_TBL_MP_Master_Inventory_Level" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Item_AssemblyChildItems_TBL_MP_Master_Item" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Item_Attachments_TBL_MP_Master_Item" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Item_Suppliers_TBL_MP_Master_Item" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.Master_UserList_BaseUOM" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.Master_UserList_PurchaseUOM" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Item_Attachments_TBL_MP_Master_UserList" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Item_Suppliers_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Module_Forms_Tbl_MP_Master_Module" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_RoleForm_Tbl_MP_Master_Module" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_RoleModule_Tbl_MP_Master_Module" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_User_FormWiseRights_Tbl_MP_Master_Module" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Module_Forms_Tbl_MP_Master_Module_Forms" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_RoleForm_Tbl_MP_Master_Module_Forms" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_User_CustomPermissions_Tbl_MP_Master_Module_Forms" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_Address_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_BankDetail_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_PartyContact_Detail_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_PMC_ProjectMaster_Tbl_MP_Master_Party" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_Tbl_MP_Master_Party_Address_TBL_MP_Master_State" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_RoleForm_TBL_MP_Master_Role" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_RoleModule_TBL_MP_Master_Role" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_Master_Warehouse_TBL_MP_Master_Warehouse" />
+        <AssociationConnector Association="EXCEL_ERP_TESTModel.FK_TBL_MP_PMC_Project_Planning_TBL_MP_PMC_ProjectMaster" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

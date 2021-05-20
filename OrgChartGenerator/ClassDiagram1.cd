@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="OrgChartGenerator.OrgChart">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OrgChart.cs</FileName>
+      <HashCode>AQEAANAYAKAEAAgCgAgAQhBgIgAhANEQAQYAIEACYQE=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.179" />
+  </Class>
+  <Class Name="OrgChartGenerator.OrgChartRecord">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OrgChartRecord.cs</FileName>
+      <HashCode>AACAAAAEACAAABAAAAAIAAAAAAAAAQAAAAAACAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OrgChartGenerator.EmployeePos">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>EmployeePos.cs</FileName>
+      <HashCode>AAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
